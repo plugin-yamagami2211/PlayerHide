@@ -1,0 +1,9 @@
+name: PlayerHide
+version: '${project.version}'
+main: jp.yama2211.plhide.Main
+
+commands:
+  hide:
+    description: Player hide command
+  show:
+    description: Player show command
